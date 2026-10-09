@@ -1,0 +1,24 @@
+toolkit_plan.text
+Project: Personal Mini-Toolkit
+Developer: Student
+
+Tools Included & Descriptions:
+1. To-Do List Manager: Allows the user to view, add, and clear tasks in a dynamic list.
+2. Number-Guessing Game: A mini-game where the user guesses a secret number with conditional feedback and a loop.
+3. Tip & Total Calculator: Calculates the tip amount and final split total based on user bill input using conditionals and math.
+
+Menu Text Design:
+======================================
+       PERSONAL MINI-TOOLKIT
+======================================
+1. To-Do List Manager
+2. Number-Guessing Game
+3. Tip & Total Calculator
+4. Quit
+======================================
+Enter your choice (1-4): 
+
+Concepts Used per Tool:
+- To-Do List Manager: Loops, Lists, F-strings, Input/Output
+- Number-Guessing Game: Loops, Conditionals, F-strings, Input/Output
+- Tip & Total Calculator: Conditionals, F-strings, Arithmetic Operations, Input/Output
